@@ -5,6 +5,8 @@ desarrollo del backend consistente a aun aplicacion de registro de citas medicas
 
 Modelo de datos usado en la aplicacion:
 
+![Listadoctores](https://github.com/JuanPabloPerea/CitasMedicas/assets/36460406/43ae724e-4964-46ac-8afa-7015092533c7)
+
 Agregacion de pacientes:
 
 ![CreacionPaciente](https://github.com/JuanPabloPerea/CitasMedicas/assets/36460406/edda76a3-6efe-4534-877c-17e78171ee3c)
