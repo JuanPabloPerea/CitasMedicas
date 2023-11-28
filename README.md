@@ -4,9 +4,11 @@
 desarrollo del backend consistente a aun aplicacion de registro de citas medicas.
 
 Pasos para su instalacion:
+
 1.se debe realizar una copia de el repositorio ( clonarlo )
-2.uma vez clonado se deben ejecutar los comandos de npm install dotenv --save , npm install typescript 
---save-dev, npm install @types/node @types/express @types/body-parser @types/mysql @types/dotenv --save-dev  desde el terminal
+
+2.uma vez clonado se deben ejecutar los comandos de npm install dotenv --save , npm install typescript --save-dev, npm install @types/node @types/express @types/body-parser @types/mysql @types/dotenv --save-dev  desde el terminal
+
 3. y por ultimo se corre la aplicacion con npm run dev
 
 para poder hacer modificaciones a las consultas y a los pacientes se debe tener instalado mysql
