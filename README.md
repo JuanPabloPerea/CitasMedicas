@@ -5,9 +5,11 @@ desarrollo del backend consistente a aun aplicacion de registro de citas medicas
 
 Pasos para su instalacion:
 1.se debe realizar una copia de el repositorio ( clonarlo )
-2.
-3.
-4.
+2.uma vez clonado se deben ejecutar los comandos de npm install dotenv --save , npm install typescript 
+--save-dev, npm install @types/node @types/express @types/body-parser @types/mysql @types/dotenv --save-dev  desde el terminal
+3. y por ultimo se corre la aplicacion con npm run dev
+
+para poder hacer modificaciones a las consultas y a los pacientes se debe tener instalado mysql
 
 Modelo de datos usado en la aplicacion:
 
@@ -36,3 +38,14 @@ listado de doctor:
 modificacion de info de doctor 654:
 
 ![doctor](https://github.com/JuanPabloPerea/CitasMedicas/assets/36460406/9eccc6fd-ee9c-4527-9048-6d035b91a995)
+
+Creacion de cita:
+
+![creacioncita](https://github.com/JuanPabloPerea/CitasMedicas/assets/36460406/05bc5297-7744-4d9f-834f-44bffbbd2063)
+
+
+listado de citas:
+
+![Listado de citasPNG](https://github.com/JuanPabloPerea/CitasMedicas/assets/36460406/d5b7f55e-dbdd-4635-a640-29ac8b2f4af7)
+
+
