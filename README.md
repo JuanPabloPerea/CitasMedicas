@@ -3,6 +3,12 @@
 
 desarrollo del backend consistente a aun aplicacion de registro de citas medicas.
 
+Pasos para su instalacion:
+1.se debe realizar una copia de el repositorio ( clonarlo )
+2.
+3.
+4.
+
 Modelo de datos usado en la aplicacion:
 
 ![Listadoctores](https://github.com/JuanPabloPerea/CitasMedicas/assets/36460406/43ae724e-4964-46ac-8afa-7015092533c7)
